@@ -1,0 +1,16 @@
+body {
+  background-color: cornflowerblue;
+}
+
+.container-fluid {
+  background-color: white;
+}
+
+.container {
+  background-color: white;
+}
+
+.container-footer {
+  background-color: blue;
+}
+
